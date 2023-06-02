@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: 12.x
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
-      - name: Adding README - Chinese Simplified
+      - name: Adding README - English
         uses: gauripatil/33-js-concepts@main
         with:
           LANG: en
